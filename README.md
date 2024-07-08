@@ -1,4 +1,4 @@
-# WeWeFit-Fitbit-Data-Analysis
+# WeFit-Fitbit-Data-Analysis
 
 
 # CASE STUDY
